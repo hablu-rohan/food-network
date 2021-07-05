@@ -109,9 +109,10 @@ h2{
     height:30%;
     margin-bottom: 50px;
     border:5px solid white;
-    box-shadow: 10px 10px 5px 10px #aaaaaa;
+    box-shadow: 10px 10px 10px 10px #aaaaaa;
     padding:20px;
     border-radius: 20px;
+    color: gray;
 }
 .written-article img{
     
