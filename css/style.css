@@ -1,0 +1,53 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+}
+#top-section{
+    display: flex;
+}
+.one-half{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.one-half p{
+    font-size: 14px;
+}
+.left-in-top{
+    margin-top: 10%;
+}
+.left-in-top h1{
+    margin-bottom: 5%;
+}
+.left-in-top p{
+    font-size: 18px;
+    margin-bottom: 5%;
+}
+.one-half img{
+    width: 70%;
+}
+.order-food{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding-top: 10px;
+    padding-right:25px;
+    padding-bottom:10px;
+    padding-left:25px;
+    color:white;
+    border-radius: 15px;
+}
+.right-in-top{
+    margin-top: 3%;
+}
+.orange-in-top-section{
+    color:rgb(251,145,73);
+}
